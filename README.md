@@ -4,13 +4,14 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Responsive dashboard across mobile, tablet and desktop ( different screen sizes)
 
-A few resources to get you started if this is your first Flutter project:
+Simple way to show how you can create different behaviors depending on wich screen the user is using!
+One code base , multiple plataforms!
+Flutter <3
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+https://user-images.githubusercontent.com/89053829/181651987-790d9e47-443c-44e5-9fec-167fa34e2877.mp4
+
